@@ -54,4 +54,4 @@ gcloud compute instance-groups managed describe example-group
 </pre></code>
 
 ## Limitations
-* chaque groupe d'instance ne peut accueillir plus de 500 instances 
+* chaque groupe d'instances ne peut accueillir plus de 500 instances 

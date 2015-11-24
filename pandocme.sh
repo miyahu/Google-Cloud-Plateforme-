@@ -1,3 +1,3 @@
 #!/bin/bash -
 
-pandoc -s $1.md -t dzslides --self-contained -o $1.html
+pandoc -s $1.md -c assets/css-ss.css --toc -o assets/$1.html
