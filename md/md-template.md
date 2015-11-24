@@ -6,11 +6,13 @@ schema from Google
 ## Region
 ### propriétés
 ### One liners
-### Limitations
+### Recommandé quand ...
 
 ## Zone
 ### propriétés
-
 ### One liners
-### Limitations
+### Recommandé quand ...
+
+## Limitations
+## tarifs
 
