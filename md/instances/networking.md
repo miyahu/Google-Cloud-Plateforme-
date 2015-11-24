@@ -38,9 +38,9 @@ Typiquement, équivalent du LAN ou des réseaux dit de confiances, car interne.
 ### One liners
 N/A
 
-## *External IP addresses
+## External IP addresses
 
-Si vous avez besoin de communiquer avec des instances présentes sur d'autres réseaux ou si vous voulez joindre cette IP d'un réseau en dehors de Google. 
+Si vous avez besoin de communiquer avec des instances présentes sur d'autres réseaux ou si vous désirez joindre cette IP à partir d'un réseau externe à Google. 
 
 ### propriétés
 

@@ -5,7 +5,8 @@
 
 ### One Liner
 
-S'authentifier
+S'authentifier :
+
     gcloud auth login
 
 Il est possible, avec glcoud, de lister les tokens enregistrés:
