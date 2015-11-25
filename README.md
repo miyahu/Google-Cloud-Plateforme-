@@ -24,6 +24,6 @@ pandocme.sh is a minimalist wrapper for mass conversion like :
         if bash pandocme.sh $i ; then
             echo "$i converted with success !"
         else
-            echo "Hum ... there a problem with ${i}, please check!"
+            echo "Hum ... there a problem with ${i}, check please!"
         fi
     done
