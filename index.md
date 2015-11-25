@@ -1,4 +1,3 @@
-<html>
 [auth](auth.html)
 [bug](bug.html)
 [GCE genéralité](gce.html)
@@ -14,5 +13,3 @@ Chaque module se décompose ainsi :
 * des *One liners* d'exemples
 * un paragraphe présentant les limitations du module 
 
-
-</html>
