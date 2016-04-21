@@ -1,4 +1,4 @@
-##  afficher la  config du projet
+###  afficher la  config du projet
 
 ```
 antonio@lapton:~$ gcloud config list
@@ -11,4 +11,8 @@ zone = europe-west1-b
 account = gruik@gruik.com
 disable_usage_reporting = False
 project = annular-bucksaw-128511
+```
+### modifier sa zone
+```
+gcloud config set compute/zone europe-west1-b
 ```
