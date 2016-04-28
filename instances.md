@@ -15,3 +15,16 @@ Updated [https://www.googleapis.com/compute/v1/projects/annular-bucksaw-128715/z
 Updated [https://www.googleapis.com/compute/v1/projects/annular-bucksaw-128715/zones/europe-west1-b/instances/tagada2].
 Updated [https://www.googleapis.com/compute/v1/projects/annular-bucksaw-128715/zones/europe-west1-b/instances/tagada3].
 ```
+### Supprimer une instance
+```
+gcloud compute instances delete tagada2
+The following instances will be deleted. Attached disks configured to 
+be auto-deleted will be deleted unless they are attached to any other 
+instances. Deleting a disk is irreversible and any data on the disk 
+will be lost.
+ - [tagada2] in [europe-west1-b]
+
+Do you want to continue (Y/n)?  Y
+
+Deleted [https://www.googleapis.com/compute/v1/projects/annular-bucksaw-128715/zones/europe-west1-b/instances/tagada2].
+```
