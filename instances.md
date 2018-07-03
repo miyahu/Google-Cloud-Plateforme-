@@ -18,6 +18,12 @@ tagada3  europe-west1-b  f1-micro                    10.132.0.4   23.251.131.216
 gcloud compute instances start tagada1 tagada2 tagada3
 ```
 
+### arrêter une instance
+
+```bash
+gcloud  compute  instances  stop master --zone europe-west4-b
+```
+
 ### Supprimer une instance
 
 ```bash
